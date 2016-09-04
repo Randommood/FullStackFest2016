@@ -17,6 +17,9 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
  * Fastly
 * Conclusions
 
+If you want to see a longer version of this talk see the [Strangeloop 2015](https://github.com/Randommood/Strangeloop2015) version.
+
+
 ## References
 
 ### Resilience literature
@@ -44,9 +47,13 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 * [Small-world experiment](https://en.wikipedia.org/wiki/Small-world_experiment)
 
 ### Resilience in industry
+
+* [Principles of Chaos Engineering](http://principlesofchaos.org/)
 * [Fault tolerance in a high-volume distributed system](http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html)
 * [From Chaos to Control - Testing the resiliency of Netflix’s Content Discovery Platform](http://techblog.netflix.com/2015/08/from-chaos-to-control-testing.html)
 * [Making the Netflix API More Resilient](http://techblog.netflix.com/2011/12/making-netflix-api-more-resilient.html)
+* [Flux: A New Approach to System Intuition](http://techblog.netflix.com/2015/10/flux-new-approach-to-system-intuition.html)
+* [Chaos Engineering Upgraded](http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html)
 * [Google Finds: Centralized Control, Distributed Data Architectures Work Better Than Fully Decentralized Architectures](http://highscalability.com/blog/2014/4/7/google-finds-centralized-control-distributed-data-architectu.html)
 * [Clients are Jerks: aka How Halo 4 DoSed the Services at Launch & How We Survived](http://caitiem.com/2015/06/23/clients-are-jerks-aka-how-halo-4-dosed-the-services-at-launch-how-we-survived/)
 * [Game Day Exercises at Stripe: Learning from kill -9](https://stripe.com/blog/game-day-exercises-at-stripe)
@@ -64,6 +71,8 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 * [Design of Resilient Systems - Innovations in Thinking Differently](https://www.youtube.com/watch?v=nV52yh6GDMg)
 * [Camille Fournier's Papers We Love Talk on The Chubby lock service for loosely-coupled distributed systems](https://www.youtube.com/watch?v=PqItueBaiRg) and [slides](https://speakerdeck.com/hakka_labs/the-chubby-lock-service-for-loosely-coupled-distributed-systems)
 * [Scaling Networks through Software](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
+* [Distributed Chaos Operations: Casey Rosenthal, Netflix](https://www.youtube.com/watch?v=8xIeu4S-Cro)
+
 
 # Thank you!
 Thank you to everyone who helped with feedback/resources and advice for this talk. Special thanks to: Paul Borrill, Jordan West, Caitie McCaffrey, Camille Fournier, Mike O'Neill, Neha Narula, Matt Whiteley, Joao Taveira, Tyler McMullen, Zac Duncan, Nathan Taylor, Ian Fung, Armon Dadgard, Peter Alvaro, Peter Bailis, Alex Rasmussen, Bruce Spang, Aysulu Greenberg, Elaine Greenberg, and Greg Bako.
