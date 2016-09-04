@@ -23,7 +23,7 @@ If you want to see a longer version of this talk see the [Strangeloop 2015](http
 ## References
 
 ### Resilience literature
-* [Baller checklist on things to remember](http://monkey.org/~marius/checklist.pdf)
+* [Checklist to remember](http://monkey.org/~marius/checklist.pdf)
 * [Harvest, Yield, and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.3690&rep=rep1&type=pdf)
 * [Computer Immunology - Burgess](http://people.scs.carleton.ca/~soma/biosec/readings/burgess-immunology.pdf)
 * [Building Robust Systems an essay - Sussman](http://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf)
@@ -72,6 +72,7 @@ If you want to see a longer version of this talk see the [Strangeloop 2015](http
 * [Camille Fournier's Papers We Love Talk on The Chubby lock service for loosely-coupled distributed systems](https://www.youtube.com/watch?v=PqItueBaiRg) and [slides](https://speakerdeck.com/hakka_labs/the-chubby-lock-service-for-loosely-coupled-distributed-systems)
 * [Scaling Networks through Software](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
 * [Distributed Chaos Operations: Casey Rosenthal, Netflix](https://www.youtube.com/watch?v=8xIeu4S-Cro)
+* ["Building Scalable Stateful Services" by Caitie McCaffrey](https://www.youtube.com/watch?v=H0i_bXKwujQ)
 
 
 # Thank you!
