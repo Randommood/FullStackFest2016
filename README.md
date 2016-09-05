@@ -75,6 +75,11 @@ If you want to see a longer version of this talk see the [Strangeloop 2015](http
 * [Distributed Chaos Operations: Casey Rosenthal, Netflix](https://www.youtube.com/watch?v=8xIeu4S-Cro)
 * ["Building Scalable Stateful Services" by Caitie McCaffrey](https://www.youtube.com/watch?v=H0i_bXKwujQ)
 
+### About Reading Papers
+* [Papers we love](http://paperswelove.org/)
+* [The Morning Paper](https://blog.acolyer.org/)
+* [ACM queue Research for Practice](http://queue.acm.org/detail.cfm?id=2949831)
+* [The Morning Paper Quarterly Review Issue 1](https://www.infoq.com/minibooks/emag-the-morning-paper-q1)
 
 # Thank you!
 Thank you to everyone who helped with feedback/resources and advice for this talk. Special thanks to: Paul Borrill, Jordan West, Caitie McCaffrey, Camille Fournier, Mike O'Neill, Neha Narula, Matt Whiteley, Joao Taveira, Tyler McMullen, Zac Duncan, Nathan Taylor, Ian Fung, Armon Dadgard, Peter Alvaro, Peter Bailis, Alex Rasmussen, Bruce Spang, Aysulu Greenberg, Elaine Greenberg, and Greg Bako.
