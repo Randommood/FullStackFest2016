@@ -6,15 +6,15 @@ Accompanying repository for the "Architectural patterns of resilient distributed
 See the [image credits](credits.md), link to [slides](https://speakerdeck.com/randommood/full-stack-fest-architectural-patterns-of-resilient-distributed-systems), and [video-soon](#).
 
 * Why Resilience
- * Motivation & Definitions
+  * Motivation & Definitions
 * Resilience Literature
- * Harvest/Yield thinking
- * Cook's Model
- * Borrill's Model
+  * Harvest/Yield thinking
+  * Cook's Model
+  * Borrill's Model
 * Resilience in industry
- * Netflix
- * Google
- * Fastly
+  * Netflix
+  * Google
+  * Fastly
 * Conclusions
 
 If you want to see a longer version of this talk see the [Strangeloop 2015](https://github.com/Randommood/Strangeloop2015) version.
